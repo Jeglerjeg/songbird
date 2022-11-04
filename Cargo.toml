@@ -49,7 +49,7 @@ uuid = { features = ["v4"], optional = true, version = "1" }
 xsalsa20poly1305 = { features = ["std"], optional = true, version = "0.9" }
 
 [dependencies.serenity]
-rev = "5ff1a2a0a619e91842144256001bf2664edbb9c1"
+rev = "16ab6db56c401d02be15992b5f35fe421dd264c0"
 default-features = false
 features = ["voice", "gateway"]
 git = "https://github.com/serenity-rs/serenity"

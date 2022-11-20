@@ -56,7 +56,7 @@ git = "https://github.com/serenity-rs/serenity"
 optional = true
 
 [dependencies.serenity-voice-model]
-branch = "next"
+rev = "387367595fb693d867cb6f85eb42f0bd775871b7"
 git = "https://github.com/serenity-rs/serenity"
 optional = true
 

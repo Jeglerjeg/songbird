@@ -53,7 +53,7 @@ url = { optional = true, version = "2" }
 uuid = { features = ["v4"], optional = true, version = "1" }
 
 [dependencies.serenity]
-branch = "next"
+rev = "a0c102f9acfd8d7184650815e06e0301954cb9e7"
 default-features = false
 features = ["voice", "gateway"]
 git = "https://github.com/serenity-rs/serenity"
